@@ -1,3 +1,14 @@
+Alejandro - Filtrar datos. Quitar RTF, etc. Mirar si hay otras fuentes que nos puedan faltar 
+Alejandro - Ir dándole forma y poniendo secciones. 
+
+Santi - Copiar al paper la sección
+Santi - Crear repositorio
+
+Jorge - Generalizar con mythos. 
+Jorge - Del dataset original ver si hay otros ficheros embebidos y extraer hasta el tercer nivel o así. Hay que revisar que no haya bombas lógicas recursivas. 
+Jorge - Medir documentos ofuscados (preprocesado de los documentos y extracción de valors). Eso se lo podemos tirar a mythos 
+
+
 - [ ] Decidir el enfoque (medición o estudio empírico) y la conferencia.
 
 - [ ] Ampliar el corpus con TRAKR, comprobando antes que las atribuciones son consistentes.
